@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nplg-catalog",
   "title": "Nplg Catalog",
   "description": "National Parliamentary Library of Georgia MCP — the union catalogue and the",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/nplg-catalog",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nplg-catalog",
