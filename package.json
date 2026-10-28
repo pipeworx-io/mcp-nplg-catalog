@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-nplg-catalog",
-  "version": "0.1.2",
-  "description": "National Parliamentary Library of Georgia MCP — the union catalogue and the",
+  "version": "0.1.3",
+  "description": "National Parliamentary Library of Georgia MCP — the union catalogue and the digital library, both published by the library itself.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1b455c786a426ab2e5cac6dcaea1892d5c1f5720ff8480024aa1329866663c05",
-    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
+    "sourceHash": "v1-ea3f632abcddc63f6d3051bc43cc8791d4ee140acba95bb53e47e7a2e3a79eca",
+    "sourceCommit": "774de7f685a75e02d0b828d24a7b94794102152c"
   }
 }
